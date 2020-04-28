@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-float main()
-{   int marks;
+int main()
+{   float marks;
     printf("enter thr marks of the student:");
     scanf("%f",&marks);
     if((marks>=85) &&(marks<=100))
